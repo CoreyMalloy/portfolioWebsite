@@ -7,7 +7,7 @@ function App() {
   return (
     <>
     <Header/>
-      <div className='center text-center'> Hello World</div>
+      <div className='center text-center'> Hello Vercel</div>
     </>
   )
 }
