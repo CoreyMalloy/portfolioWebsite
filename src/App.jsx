@@ -13,8 +13,7 @@ function App() {
             <li>designer</li>
             <li>programmer</li>
           </ul>
-          <p>My name is Corey, and I am a Senior Student located in Cleveland Ohio. Aside from doing schoolwork, I work on web projects, ride my bike, and tinker around on my computer!
-            </p>
+          <p>My name is Corey, and I am a Senior Student located in Cleveland Ohio. Aside from doing schoolwork, I work on web projects, ride my bike, and tinker around on my computer!</p>
         </div>
       </div>
     </>
