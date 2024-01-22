@@ -5,7 +5,7 @@ function App() {
   return (
     <>
       <div className='flex items-center justify-center'>
-        <div className='text-center w-1/2'>
+        <div className='text-left w-1/2'>
           <h1 className='text-3xl'>Hi, Im Corey Malloy</h1>
           <p>Hello and welcome to my website</p>
           <ul>
