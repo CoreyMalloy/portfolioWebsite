@@ -5,8 +5,8 @@ function App() {
   return (
     <>
       <div className='flex items-center justify-center'>
-        <div className='text-left w-1/2'>
-          <h1 className='text-3xl'>Hi, Im Corey Malloy</h1>
+        <div className='text-left w-1/2 margin'>
+          <h1 className='text-3l'><b>Corey Malloy</b></h1>
           <p>Hello and welcome to my website</p>
           <ul>
             <li>student</li>
