@@ -11,7 +11,10 @@ function App() {
           <p>In the past I have worked under a web development entrepreneur to enhance my web development skills</p>
           <div className='flex justify-between'>
             <ul>
-              <li><a href="#">hello</a><p>student</p></li>
+              <li>
+                <p className='mb-3'>hello</p>
+                <a href="#">Craft</a><p>student</p>
+              </li>
               <li>designer</li>
               <li>programmer</li>
             </ul>
